@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Adding and Validating Via Bruno-1",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
